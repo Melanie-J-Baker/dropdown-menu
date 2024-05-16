@@ -1,6 +1,8 @@
 # dropdown-menu
 
-https://melanie-j-baker.github.io/dropdown-menu/
+Created as part of the Odin Project curriculum: https://www.theodinproject.com/lessons/node-path-javascript-dynamic-user-interface-interactions#image-slider
+
+Try it here: https://melanie-j-baker.github.io/dropdown-menu/
 
 Creating a simple dropdown menu module
 
